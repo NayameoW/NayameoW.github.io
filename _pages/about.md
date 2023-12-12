@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-```
+
 # Personal Information
 
 Undergraduate at Nanjing University
@@ -34,4 +34,3 @@ He is awarded the title of Excellent Student and a task bonus in [Tencent 2023 R
 ## Publications
 
 Dataset Distillation via the Wasserstein Metric(under review of CVPR)
-```
