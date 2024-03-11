@@ -31,6 +31,6 @@ Currently he is researching Metamorphic Testing and Data Distillation, Domain Ge
 
 He is awarded the title of Excellent Student and a task bonus in [Tencent 2023 Rhinoceros Bird Open Source Talent Program](https://mp.weixin.qq.com/s/_Hc7yW0FaLrf-2Ohy0foLw).
 
-## Publications
+## Publications and Preprints
 
-Dataset Distillation via the Wasserstein Metric(under review of CVPR)
+Dataset Distillation via the Wasserstein Metric
