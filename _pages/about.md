@@ -18,18 +18,20 @@ Github: [NayameoW](https://github.com/NayameoW)
 
 ## Education
 
+High School Diploma, Shanghai High School
+
 Undergraduate in Software Engineering, Nanjing University
 
 ## Research Interests
 
 Database Testing  
-Trustworthy Machine Learning, [here](https://www.trustworthyml.org/) for more information
+Trustworthy Machine Learning
 
-Currently he is researching Metamorphic Testing and Data Distillation, Domain Generalization.
+Currently I am researching Metamorphic Testing and Data Distillation, Domain Generalization.
 
 ## Awards and Grants
 
-He is awarded the title of Excellent Student and a task bonus in [Tencent 2023 Rhinoceros Bird Open Source Talent Program](https://mp.weixin.qq.com/s/_Hc7yW0FaLrf-2Ohy0foLw).
+I was awarded the title of Excellent Student and a task bonus in [Tencent 2023 Rhinoceros Bird Open Source Talent Program](https://mp.weixin.qq.com/s/_Hc7yW0FaLrf-2Ohy0foLw).
 
 ## Publications and Preprints
 
