@@ -35,7 +35,7 @@ Currently I am researching Database Testing. My work builds upon a DBMS testing 
 
 Haoyang Liu, Yijiang Li, Tiancheng Xing, Vibhu Dalal, Luwei Li, Jingrui He, Haohan Wang, **Dataset Distillation via the Wasserstein Metric**
 
-Long Gu, Si Liu, Tiancheng Xing, Hengfeng Wei, Yuxing Chen, David Basin, **IsoVista: Black-box Checking Database Isolation Guarantees  **, VLDB 2024 Demo, https://www.vldb.org/pvldb/vol17/p4325-liu.pdf
+Long Gu, Si Liu, Tiancheng Xing, Hengfeng Wei, Yuxing Chen, David Basin, **IsoVista: Black-box Checking Database Isolation Guarantees** , VLDB 2024 Demo, [https://www.vldb.org/pvldb/vol17/p4325-liu.pdf](https://www.vldb.org/pvldb/vol17/p4325-liu.pdf)
 
 ## Awards and Grants
 
