@@ -22,7 +22,7 @@ High School Diploma, Shanghai High School
 
 Bachelor's degree in Software Engineering, Nanjing University
 
-Master of Computing, AI Specialisation, NUS
+Master of Computing, AI Specialisation, National University of Singapore
 
 ## Research Interests
 
