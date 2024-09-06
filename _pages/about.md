@@ -11,23 +11,25 @@ redirect_from:
 
 # Personal Information
 
-Undergraduate at Nanjing University
+Persuing his Master's degree at School of Computing, NUS. He obtained his bachelor's degree at Nanjing University.
 
-Email: [xtc1207445468@outlook.com](mailto:xtc1207445468@outlook.com)  
+Email: [tiancheng.x@u.nus.edu](mailto:tiancheng.x@u.nus.edu)  
 Github: [NayameoW](https://github.com/NayameoW)
 
 ## Education
 
 High School Diploma, Shanghai High School
 
-Undergraduate in Software Engineering, Nanjing University
+Bachelor's degree in Software Engineering, Nanjing University
+
+Master of Computing, AI spec, NUS
 
 ## Research Interests
 
 Database Testing  
 Trustworthy Machine Learning
 
-Currently I am researching Metamorphic Testing and Data Distillation, Domain Generalization.
+Currently I am researching Database Testing.
 
 ## Awards and Grants
 
@@ -36,3 +38,5 @@ I was awarded the title of Excellent Student and a task bonus in [Tencent 2023 R
 ## Publications and Preprints
 
 Dataset Distillation via the Wasserstein Metric
+
+IsoVista: Black-box Checking Database Isolation Guarantees, VLDB Demo 2024, https://www.vldb.org/pvldb/vol17/p4325-liu.pdf
