@@ -31,6 +31,8 @@ Master of Computing, AI Specialisation, National University of Singapore
 
 Currently I am researching Database Testing. My work builds upon a DBMS testing tool **[SQLancer](https://github.com/sqlancer/sqlancer)**.
 
+![sqlancer_logo_logo_pos_500](https://s2.loli.net/2024/09/08/DkSV4POu3whv9Tr.png)
+
 ## Publications and Preprints
 
 Haoyang Liu, Yijiang Li, Tiancheng Xing, Vibhu Dalal, Luwei Li, Jingrui He, Haohan Wang, **Dataset Distillation via the Wasserstein Metric**
