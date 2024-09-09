@@ -16,6 +16,8 @@ I am pursuing my Master's degree at School of Computing, National University of 
 Email: [tiancheng.x@u.nus.edu](mailto:tiancheng.x@u.nus.edu)  
 Github: [NayameoW](https://github.com/NayameoW)
 
+For my BLOG, please visit [here](https://nayameow.notion.site/Naya-s-Blog-9ad24dfb0f5d4778aad95c4aae91cef8?pvs=4)
+
 ## Education
 
 High School Diploma, Shanghai High School
